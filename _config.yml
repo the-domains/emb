@@ -1,0 +1,28 @@
+name: EMB
+favicon: null
+layout_spectrum: 0.7314363759942353
+typography_spectrum: 0.7829229333437979
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.12636995664797723
+  lightness: 0.4507271165493876
+  saturation: 0.4101943343412131
+  rhythmicContrast: 0.7914159744977951
+purpose: []
