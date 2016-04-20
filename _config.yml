@@ -2,6 +2,7 @@ name: EMB
 favicon: null
 layout_spectrum: 1
 typography_spectrum: 0.04783
+title: E-Marketing Buffet
 cta:
   domain: null
   bucket: null
