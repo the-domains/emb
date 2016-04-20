@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[E-Marketing Buffet]]></title>
         <description><![CDATA[E-Marketing Buffet]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/emb/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 20 Apr 2016 04:24:24 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 20 Apr 2016 04:27:10 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/emb/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[EMB INTRO]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ed3578c6-b35d-43ef-8098-3483668ded81.jpg">]]></description>
-            <link>undefinedemb-intro/index.html</link>
+            <link>https://thegrid.ai/emb/emb-intro/index.html</link>
             <guid isPermaLink="false">3565db3e-aa90-44f6-8e68-6b1b7024f9e9</guid>
-            <pubDate>Wed, 20 Apr 2016 04:24:23 GMT</pubDate>
+            <pubDate>Wed, 20 Apr 2016 04:26:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
