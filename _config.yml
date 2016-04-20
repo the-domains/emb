@@ -1,7 +1,7 @@
 name: EMB
 favicon: null
 layout_spectrum: 0.00761
-typography_spectrum: 0.7829229333437979
+typography_spectrum: 0.07422
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
-  brandStrength: 0.12636995664797723
-  lightness: 0.4507271165493876
-  saturation: 0.4101943343412131
-  rhythmicContrast: 0.7914159744977951
+    - '#e8ed4b'
+    - '#1b747c'
+    - '#69aad2'
+    - '#2b2d23'
+    - '#f390f0'
+  brandStrength: 0.1875
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 0.75
 purpose: []
