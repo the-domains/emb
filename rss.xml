@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[E-Marketing Buffet]]></title>
         <description><![CDATA[E-Marketing Buffet]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/emb/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 20 Apr 2016 22:55:34 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 20 Apr 2016 23:02:52 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/emb/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Stop waiting/Deja de esperar]]></title>
+            <title><![CDATA[CONÓCENOS]]></title>
             <description><![CDATA[<img src="http://49.media.tumblr.com/bc1cc24b565bd9ebe0ba5d35124b4e37/tumblr_mzw84j8uCq1s7trmio1_r3_400.gif">]]></description>
-            <link>undefinedstop-waitingdeja-de-esperar/index.html</link>
+            <link>https://thegrid.ai/emb/stop-waitingdeja-de-esperar/index.html</link>
             <guid isPermaLink="false">d781c837-930a-4915-b506-f24b2c3a16cf</guid>
-            <pubDate>Wed, 20 Apr 2016 22:55:33 GMT</pubDate>
+            <pubDate>Wed, 20 Apr 2016 23:02:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
