@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Tomemos tu imagen y deja que tus clientes vean quien eres realmente.
-datePublished: '2016-04-20T22:55:33.788Z'
-dateModified: '2016-04-20T22:46:41.714Z'
+datePublished: '2016-04-20T23:02:51.848Z'
+dateModified: '2016-04-20T23:00:33.665Z'
 author: []
 title: ''
 authors: []
