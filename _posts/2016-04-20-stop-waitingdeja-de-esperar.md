@@ -1,13 +1,13 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: Tomemos tu imagen y deja que tus clientes vean quien eres realmente.
-datePublished: '2016-04-20T22:39:43.821Z'
-dateModified: '2016-04-20T22:38:48.588Z'
+datePublished: '2016-04-20T22:55:33.788Z'
+dateModified: '2016-04-20T22:46:41.714Z'
 author: []
 title: ''
 authors: []
