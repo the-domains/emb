@@ -1,4 +1,4 @@
-name: E-Marketing Buffet
+name: EMB
 favicon: null
 layout_spectrum: 0.24849
 typography_spectrum: 0.2666
@@ -22,8 +22,8 @@ color:
     - '#93b1d5'
     - '#1b2b2b'
     - '#625856'
-  brandStrength: 0.5
-  lightness: 0.5
-  saturation: 0.5
-  rhythmicContrast: 0.5
+  brandStrength: 1
+  lightness: 1
+  saturation: 1
+  rhythmicContrast: 1
 purpose: []
