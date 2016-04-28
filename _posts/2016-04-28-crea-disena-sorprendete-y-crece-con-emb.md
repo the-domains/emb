@@ -2,14 +2,16 @@
 inFeed: true
 hasPage: false
 inNav: false
-isBasedOnUrl: null
+isBasedOnUrl: ''
 inLanguage: null
 keywords: []
 description: 'Crea, diseña, sorpréndete y crece con EMB.'
-datePublished: '2016-04-28T21:02:49.675Z'
-dateModified: '2016-04-28T21:02:02.774Z'
+datePublished: '2016-04-28T21:07:29.839Z'
+dateModified: '2016-04-28T21:07:00.274Z'
 title: ''
-author: []
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-04-28-crea-disena-sorprendete-y-crece-con-emb.md
 published: true
 authors: []
