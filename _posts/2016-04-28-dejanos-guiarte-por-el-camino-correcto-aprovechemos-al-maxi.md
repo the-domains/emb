@@ -1,12 +1,12 @@
 ---
 inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-04-28T21:10:39.732Z'
-dateModified: '2016-04-28T21:10:20.065Z'
+datePublished: '2016-04-28T21:13:35.802Z'
+dateModified: '2016-04-28T21:13:16.031Z'
 author: []
 title: ''
 sourcePath: _posts/2016-04-28-dejanos-guiarte-por-el-camino-correcto-aprovechemos-al-maxi.md
@@ -23,6 +23,6 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/61bffac1-7bbf-45f4-9ee2-a2617b9734bb.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a51ece92-a46f-484e-a38f-87a6dbf71441.png)
 
 Déjanos guiarte por el camino correcto. Aprovechemos al máximo las herramientas de nuestra tecnología.
