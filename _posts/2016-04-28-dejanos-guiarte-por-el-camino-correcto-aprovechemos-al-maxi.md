@@ -4,9 +4,9 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: ''
-datePublished: '2016-04-28T21:13:35.802Z'
-dateModified: '2016-04-28T21:13:16.031Z'
+description: 'Déjanos guiarte por el camino correcto. Aprovechemos al máximo las herramientas de nuestra tecnología. '
+datePublished: '2016-04-28T21:15:30.239Z'
+dateModified: '2016-04-28T21:13:43.225Z'
 author: []
 title: ''
 sourcePath: _posts/2016-04-28-dejanos-guiarte-por-el-camino-correcto-aprovechemos-al-maxi.md
