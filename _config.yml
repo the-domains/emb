@@ -1,7 +1,7 @@
 name: EMB
 favicon: null
 layout_spectrum: 0.24849
-typography_spectrum: 0.2666
+typography_spectrum: 0.30886
 title: E-Marketing Buffet
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#e7dbdf'
-    - '#15221e'
-    - '#33403c'
-    - '#8d8c8a'
-    - '#90604c'
-  brandStrength: 0.5
-  lightness: 0.5
-  saturation: 0.5
-  rhythmicContrast: 0.5
+    - '#f8f8f8'
+    - '#25273c'
+    - '#e4bfe1'
+    - '#563c57'
+    - '#7a8194'
+  brandStrength: 1
+  lightness: 0.375
+  saturation: 1
+  rhythmicContrast: 0
 purpose: []
