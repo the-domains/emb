@@ -1,12 +1,12 @@
 ---
 inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 keywords: []
 description: 'Crear, diseñar, sorpréndete y crecer con EMB.'
-datePublished: '2016-04-28T21:09:25.798Z'
-dateModified: '2016-04-28T21:08:05.714Z'
+datePublished: '2016-04-28T21:14:54.873Z'
+dateModified: '2016-04-28T21:13:53.116Z'
 title: ''
 author:
   - name: ''
