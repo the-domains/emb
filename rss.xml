@@ -4,7 +4,7 @@
         <description><![CDATA[E-Marketing Buffet]]></description>
         <link>https://thegrid.ai/emb/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 28 Apr 2016 21:03:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Apr 2016 21:02:56 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/emb/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -19,6 +19,13 @@
             <link>http://theclassyissue.com/</link>
             <guid isPermaLink="false">0085192b-96b9-4f03-b204-2d5cddfdfec9</guid>
             <pubDate>Thu, 28 Apr 2016 20:55:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/13d1fcf1-bb43-4d3d-b198-6d6050773c5b.jpg">]]></description>
+            <link>https://thegrid.ai/emb/crea-disena-sorprendete-y-crece-con-emb/index.html</link>
+            <guid isPermaLink="false">b81d9706-acd3-42d0-ab63-c07fecc38e2f</guid>
+            <pubDate>Thu, 28 Apr 2016 20:53:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
